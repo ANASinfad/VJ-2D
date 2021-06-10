@@ -1,0 +1,49 @@
+﻿  BoneShot.cpp
+  CreditsScene.cpp
+  DeadScene.cpp
+  Enemy.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Enemy.cpp(26,16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  FallingRock.cpp
+  Fire.cpp
+  Friend.cpp
+  Game.cpp
+  GeneralEnemy.cpp
+  instruScene.cpp
+  IntroScene.cpp
+  main.cpp
+  Player.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Player.cpp(741,20): warning C4018: '<': no coinciden signed/unsigned
+  PlayerState.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\PlayerState.cpp(186,9): warning C4018: '<': no coinciden signed/unsigned
+  Portal.cpp
+  Quad.cpp
+  Scene.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Scene.cpp(56,20): warning C4018: '<': no coinciden signed/unsigned
+  Scene2.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Scene2.cpp(50,20): warning C4018: '<': no coinciden signed/unsigned
+  Scene3.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Scene3.cpp(50,20): warning C4018: '<': no coinciden signed/unsigned
+  Scene4.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Scene4.cpp(50,20): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  Compilando...
+  Scene5.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\Scene5.cpp(50,20): warning C4018: '<': no coinciden signed/unsigned
+  SceneManager.cpp
+  Shader.cpp
+  ShaderProgram.cpp
+  SoundManager.cpp
+  Sprite.cpp
+  Texture.cpp
+  TexturedQuad.cpp
+  TileMap.cpp
+C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\02-Bubble\TileMap.cpp(65,7): warning C4101: 'tile': variable local sin referencia
+  WalkingSkull.cpp
+  WaterDrop.cpp
+  WinScene.cpp
+  Generando código...
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_DXT.obj)' o en 'C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_helper.obj)' o en 'C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(SOIL.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(stb_image_aug.obj)' o en 'C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  02-Bubble.vcxproj -> C:\Users\isaac\Desktop\entrega VJ\Source Code Project\2DGame\02-Bubble\Debug\02-Bubble.exe
