@@ -1,6 +1,8 @@
 Anas Infad
 Isaac Marcelo Muñoz Cruz
 
+Nota del proyecto: 9.5
+
 Funcionalitats implementades:
 5 nivells        - Per poder jugar.
 Portals          - Ens permeten moure pels diferents escenes del joc.
